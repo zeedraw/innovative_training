@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<play>
+<answer>去雍和宫转转不错</answer>
+<time>清明节</time>
+<location>北京</location>
+<others>和同学</others>
+</play>
+
+
+
+<play>
+<answer>去外滩看看吧</answer>
+<time>十一</time>
+<location>上海</location>
+<others>和女朋友</others>
+</play>
+
+</aiml>
